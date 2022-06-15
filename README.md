@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-###Habilidades
+### Habilidades
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukera)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukera&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
